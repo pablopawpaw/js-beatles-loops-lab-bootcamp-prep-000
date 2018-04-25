@@ -21,12 +21,19 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(num) {
   var foo = [];
+<<<<<<< HEAD
+=======
+  var i=0;
+>>>>>>> 9b81517cd4990a7c27cbc8b458f8ade899d0b4d3
   do {foo.push("I love the Beatles!")
     i++;
   }
       
   while (i<=15);
+<<<<<<< HEAD
   return foo
+=======
+>>>>>>> 9b81517cd4990a7c27cbc8b458f8ade899d0b4d3
 }
 
 /*
